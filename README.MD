@@ -2,7 +2,7 @@
 
 ## Task 1: Assembler program
 
-## Task Description:
+### Task Description:
 
 Develop a program in assembler that computes the arithmetic expression `b - c + a`.
 
